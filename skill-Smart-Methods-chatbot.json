@@ -1,0 +1,2609 @@
+{
+  "intents": [
+    {
+      "intent": "General_Security_Assurance",
+      "examples": [
+        {
+          "text": "In what way can I tell if my plastic is safe?"
+        },
+        {
+          "text": "Are you safe on hackers?"
+        },
+        {
+          "text": "Are you safe?"
+        },
+        {
+          "text": "Will my conversation remain secured?"
+        },
+        {
+          "text": "Why would I trust this chat?"
+        },
+        {
+          "text": "What safety measures are used to ensure that chat is secure?"
+        },
+        {
+          "text": "What makes this chat trustworthy?"
+        },
+        {
+          "text": "What guards do you have in place to protect your customer's data?"
+        },
+        {
+          "text": "Secure conversation?"
+        },
+        {
+          "text": "Protection hacks?"
+        },
+        {
+          "text": "Precautions hackers?"
+        },
+        {
+          "text": "Is this conversation secure?"
+        },
+        {
+          "text": "Is this an official chat?"
+        },
+        {
+          "text": "Is this a trusted chat site?"
+        },
+        {
+          "text": "Is there a reason to distrust this chat?"
+        },
+        {
+          "text": "Is my payment information secure?"
+        },
+        {
+          "text": "Is my card info secure?"
+        },
+        {
+          "text": "Can I be sure that my stored card details are held securely?"
+        },
+        {
+          "text": "Conversation secure?"
+        },
+        {
+          "text": "Customer info secured?"
+        },
+        {
+          "text": "Do you have protection against hacks?"
+        },
+        {
+          "text": "How do I know if my card info is kept safe?"
+        },
+        {
+          "text": "How do I know this chat is not a scam?"
+        },
+        {
+          "text": "How is my credit card info secured?"
+        },
+        {
+          "text": "How safe is my data?"
+        },
+        {
+          "text": "I'd like proof of a secure chat"
+        }
+      ],
+      "description": "Express concerns about the security of the bot."
+    },
+    {
+      "intent": "General_Agent_Capabilities",
+      "examples": [
+        {
+          "text": "What are your skills?"
+        },
+        {
+          "text": "How can you help me?"
+        },
+        {
+          "text": "How can you solve my problems?"
+        },
+        {
+          "text": "I'd like to know what type of questions you can answer for me."
+        },
+        {
+          "text": "Is there anything you can help me with?"
+        },
+        {
+          "text": "Tell me about what kind of things you do?"
+        },
+        {
+          "text": "Tell me something"
+        },
+        {
+          "text": "What are my options that you can help with?"
+        },
+        {
+          "text": "What are my options?"
+        },
+        {
+          "text": "What are you able to deal with?"
+        },
+        {
+          "text": "What are you able to understand?"
+        },
+        {
+          "text": "What are you capable of?"
+        },
+        {
+          "text": "What are you good at?"
+        },
+        {
+          "text": "What are you used for?"
+        },
+        {
+          "text": "What can I ask you to do?"
+        },
+        {
+          "text": "Where can I find the frequently asked questions?"
+        },
+        {
+          "text": "What kinds of things can you do?"
+        },
+        {
+          "text": "What is this 4?"
+        },
+        {
+          "text": "What features are in here?"
+        },
+        {
+          "text": "What else can you help me with?"
+        },
+        {
+          "text": "What do you handle?"
+        },
+        {
+          "text": "What do you do?"
+        },
+        {
+          "text": "How do I use you?"
+        },
+        {
+          "text": "I do not know what to ask"
+        },
+        {
+          "text": "Can you please give me a list of the types of things you can help me with?"
+        },
+        {
+          "text": "Can you tell me what services you are able to help me with?"
+        },
+        {
+          "text": "Do you have a list of things I can talk to you about?"
+        },
+        {
+          "text": "Help now"
+        },
+        {
+          "text": "Hi, what do you do?"
+        },
+        {
+          "text": "How can I use you?"
+        }
+      ],
+      "description": "Request capabilities of the bot."
+    },
+    {
+      "intent": "AskAboutAssistant",
+      "examples": [
+        {
+          "text": "what is your name"
+        },
+        {
+          "text": "tell me about you"
+        },
+        {
+          "text": "who are you"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "RobotMoves",
+      "examples": [
+        {
+          "text": "could you go backword"
+        },
+        {
+          "text": "go forward"
+        },
+        {
+          "text": "stop moving"
+        },
+        {
+          "text": "could you go left"
+        },
+        {
+          "text": "go right"
+        },
+        {
+          "text": "could you go forward"
+        },
+        {
+          "text": "stop"
+        },
+        {
+          "text": "go backward"
+        },
+        {
+          "text": "stop please"
+        },
+        {
+          "text": "go left"
+        },
+        {
+          "text": "could go you right"
+        }
+      ],
+      "description": "robot moving instructions"
+    },
+    {
+      "intent": "General_Positive_Feedback",
+      "examples": [
+        {
+          "text": "This is so cool"
+        },
+        {
+          "text": "Brilliant!"
+        },
+        {
+          "text": "Can't believe you are that good"
+        },
+        {
+          "text": "How cool is this?"
+        },
+        {
+          "text": "I like what you did there! :)"
+        },
+        {
+          "text": "I'm looking forward to working with you again! :)"
+        },
+        {
+          "text": "Love your work"
+        },
+        {
+          "text": "Ok thank you"
+        },
+        {
+          "text": "Thank you"
+        },
+        {
+          "text": "This is good"
+        },
+        {
+          "text": "This is great"
+        },
+        {
+          "text": "You are awesome"
+        },
+        {
+          "text": "You are great"
+        },
+        {
+          "text": "You are the best"
+        },
+        {
+          "text": "You are wonderful"
+        },
+        {
+          "text": "You gave me exactly what I need!"
+        },
+        {
+          "text": "You the man"
+        },
+        {
+          "text": "You're a genius!"
+        },
+        {
+          "text": "You've been so helpful :)"
+        }
+      ],
+      "description": "Express positive sentiment or gratitude."
+    },
+    {
+      "intent": "General_Ending",
+      "examples": [
+        {
+          "text": "Going now"
+        },
+        {
+          "text": "Time to go"
+        },
+        {
+          "text": "That's everything"
+        },
+        {
+          "text": "That is all"
+        },
+        {
+          "text": "Thanks very much, bye!"
+        },
+        {
+          "text": "Thanks, bye!"
+        },
+        {
+          "text": "Thank you for your time"
+        },
+        {
+          "text": "Stop talking to me"
+        },
+        {
+          "text": "Stop doing this"
+        },
+        {
+          "text": "Shut up"
+        },
+        {
+          "text": "See you"
+        },
+        {
+          "text": "See you later"
+        },
+        {
+          "text": "Ok goodbye"
+        },
+        {
+          "text": "It was nice chatting with you"
+        },
+        {
+          "text": "I'm leaving now"
+        },
+        {
+          "text": "Im good thank you"
+        },
+        {
+          "text": "Im done"
+        },
+        {
+          "text": "I'm done"
+        },
+        {
+          "text": "I want to quit"
+        },
+        {
+          "text": "I have got to go"
+        },
+        {
+          "text": "I d like to stop doing this"
+        },
+        {
+          "text": "I am out of here"
+        },
+        {
+          "text": "I am leaving"
+        },
+        {
+          "text": "Hey bot go away"
+        },
+        {
+          "text": "Have a nice day?"
+        },
+        {
+          "text": "Goodbye"
+        },
+        {
+          "text": "Good. bye."
+        },
+        {
+          "text": "Go away"
+        },
+        {
+          "text": "Go off"
+        },
+        {
+          "text": "Bye bye"
+        },
+        {
+          "text": "Bye now"
+        },
+        {
+          "text": "Catch you later"
+        },
+        {
+          "text": "Cya later"
+        },
+        {
+          "text": "End trial"
+        },
+        {
+          "text": "Ending this session"
+        },
+        {
+          "text": "Finished now, good bye"
+        },
+        {
+          "text": "Get lost"
+        }
+      ],
+      "description": "End the conversation."
+    },
+    {
+      "intent": "General_Jokes",
+      "examples": [
+        {
+          "text": "Are there jokes?"
+        },
+        {
+          "text": "What is your favorite joke?"
+        },
+        {
+          "text": "What do you do for fun?"
+        },
+        {
+          "text": "Tell me something funny"
+        },
+        {
+          "text": "Tell me a joke"
+        },
+        {
+          "text": "Surprise me with something hilarious"
+        },
+        {
+          "text": "One more joke"
+        },
+        {
+          "text": "I'm bored"
+        },
+        {
+          "text": "I want a joke"
+        },
+        {
+          "text": "I am getting bored"
+        },
+        {
+          "text": "Do you like humor?"
+        },
+        {
+          "text": "Do you like fun?"
+        },
+        {
+          "text": "Do you have humor?"
+        },
+        {
+          "text": "Do you have a joke?"
+        },
+        {
+          "text": "Can you tell me a joke?"
+        },
+        {
+          "text": "Can you tell a joke?"
+        },
+        {
+          "text": "Another joke"
+        }
+      ],
+      "description": "Request a joke."
+    },
+    {
+      "intent": "General_Connect_to_Agent",
+      "examples": [
+        {
+          "text": "I want a manager"
+        },
+        {
+          "text": "I need to speak to a representative. How would I go about doing so?"
+        },
+        {
+          "text": "I don't want to talk to you"
+        },
+        {
+          "text": "I don't want to talk to a bot."
+        },
+        {
+          "text": "How can I skip the recorded menu and go straight to a live person?"
+        },
+        {
+          "text": "Hi can you transfer me"
+        },
+        {
+          "text": "Do not want a robot?"
+        },
+        {
+          "text": "Customer service representative please."
+        },
+        {
+          "text": "Could you please transfer me to your master?"
+        },
+        {
+          "text": "Contact person"
+        },
+        {
+          "text": "Can you connect me with a real person?"
+        },
+        {
+          "text": "Can you assist me to connect to an agent?"
+        },
+        {
+          "text": "Can I talk to someone?"
+        },
+        {
+          "text": "Can I speak with somebody?"
+        },
+        {
+          "text": "Can I speak to an advisor?"
+        },
+        {
+          "text": "Can I speak to a live person?"
+        },
+        {
+          "text": "Can I speak to a human please?"
+        },
+        {
+          "text": "Can I connect to an agent?"
+        },
+        {
+          "text": "Call agent"
+        },
+        {
+          "text": "Agent help"
+        },
+        {
+          "text": "A real agent, please."
+        },
+        {
+          "text": "Connect me to a live operator please."
+        },
+        {
+          "text": "Yes, take me to a real person"
+        },
+        {
+          "text": "Where is the closest agent?"
+        },
+        {
+          "text": "Send me to an agent"
+        },
+        {
+          "text": "Put me through to someone"
+        },
+        {
+          "text": "Pls connect"
+        },
+        {
+          "text": "Please let me talk to a human being."
+        },
+        {
+          "text": "Please connect me to a live agent"
+        },
+        {
+          "text": "Please assist me to get to an agent"
+        },
+        {
+          "text": "Operator please"
+        },
+        {
+          "text": "Need help from human"
+        },
+        {
+          "text": "Is there anyone there I can actually talk to for real?"
+        },
+        {
+          "text": "I would like to speak to someone"
+        },
+        {
+          "text": "I would like to speak to a human"
+        },
+        {
+          "text": "I want to talk to a person"
+        },
+        {
+          "text": "I want an agent to help me"
+        },
+        {
+          "text": "I want agent"
+        }
+      ],
+      "description": "Request a human agent."
+    },
+    {
+      "intent": "General_About_You",
+      "examples": [
+        {
+          "text": "Introduce your self"
+        },
+        {
+          "text": "Describe your self"
+        },
+        {
+          "text": "Can I use another language?"
+        },
+        {
+          "text": "About you"
+        },
+        {
+          "text": "How can I configure you?"
+        },
+        {
+          "text": "Tell me something about yourself"
+        },
+        {
+          "text": "Tell me about your life"
+        },
+        {
+          "text": "Let us talk about you"
+        },
+        {
+          "text": "I want to set up the chat bot for my shop"
+        },
+        {
+          "text": "How old are you?"
+        },
+        {
+          "text": "How do you function?"
+        },
+        {
+          "text": "Do you know who you are?"
+        },
+        {
+          "text": "Do you have a name?"
+        },
+        {
+          "text": "Why are you here?"
+        },
+        {
+          "text": "Who are you?"
+        },
+        {
+          "text": "Where were you born?"
+        },
+        {
+          "text": "Where are you from?"
+        },
+        {
+          "text": "What's your name?"
+        },
+        {
+          "text": "What should I know about you?"
+        },
+        {
+          "text": "What languages do you speak?"
+        }
+      ],
+      "description": "Request generic personal attributes."
+    },
+    {
+      "intent": "General_Human_or_Bot",
+      "examples": [
+        {
+          "text": "How can you prove you are a human?"
+        },
+        {
+          "text": "Are you real?"
+        },
+        {
+          "text": "Are you human?"
+        },
+        {
+          "text": "Am I chatting with a human?"
+        },
+        {
+          "text": "Am I talking to Watson?"
+        },
+        {
+          "text": "Tell me, are you a human or no?"
+        },
+        {
+          "text": "Are you even real?"
+        },
+        {
+          "text": "Is this a computer?"
+        },
+        {
+          "text": "Are you a robot?"
+        },
+        {
+          "text": "Are you a human or a bot?"
+        },
+        {
+          "text": "Am I talking to a person or am I talking to an AI?"
+        },
+        {
+          "text": "Am I talking to a Bot?"
+        }
+      ],
+      "description": "Ask if speaking to a human or a bot."
+    },
+    {
+      "intent": "General_Negative_Feedback",
+      "examples": [
+        {
+          "text": "Why are you stupid?"
+        },
+        {
+          "text": "You are having delusions"
+        },
+        {
+          "text": "You are on my nerves"
+        },
+        {
+          "text": "You are very frustrating"
+        },
+        {
+          "text": "You do not seem smart"
+        },
+        {
+          "text": "You're really frustrating"
+        },
+        {
+          "text": "You're really irritating"
+        },
+        {
+          "text": "You're too stupid"
+        },
+        {
+          "text": "Stupid"
+        },
+        {
+          "text": "Do not like you?"
+        },
+        {
+          "text": "Everyone hates you"
+        },
+        {
+          "text": "Hate you"
+        },
+        {
+          "text": "I do not like you"
+        },
+        {
+          "text": "I hate this!"
+        },
+        {
+          "text": "I hate you"
+        },
+        {
+          "text": "It is annoying"
+        },
+        {
+          "text": "Quit annoying me"
+        },
+        {
+          "text": "Robots are boring"
+        },
+        {
+          "text": "Robots are stupid"
+        },
+        {
+          "text": "Why are you so annoying?"
+        }
+      ],
+      "description": "Express unfavorable feedback."
+    },
+    {
+      "intent": "tell_me_about",
+      "examples": [
+        {
+          "text": "define World Wide Web",
+          "mentions": [
+            {
+              "entity": "object_of_interest",
+              "location": [
+                7,
+                21
+              ]
+            }
+          ]
+        },
+        {
+          "text": "what is IBM",
+          "mentions": [
+            {
+              "entity": "object_of_interest",
+              "location": [
+                8,
+                11
+              ]
+            }
+          ]
+        },
+        {
+          "text": "where is Saudi Arabia",
+          "mentions": [
+            {
+              "entity": "object_of_interest",
+              "location": [
+                9,
+                21
+              ]
+            }
+          ]
+        },
+        {
+          "text": "who is ahmed deedat",
+          "mentions": [
+            {
+              "entity": "object_of_interest",
+              "location": [
+                7,
+                19
+              ]
+            }
+          ]
+        },
+        {
+          "text": "who is barak obama",
+          "mentions": [
+            {
+              "entity": "object_of_interest",
+              "location": [
+                7,
+                18
+              ]
+            }
+          ]
+        },
+        {
+          "text": "what is mouse",
+          "mentions": [
+            {
+              "entity": "object_of_interest",
+              "location": [
+                8,
+                13
+              ]
+            }
+          ]
+        },
+        {
+          "text": "who is developer",
+          "mentions": [
+            {
+              "entity": "object_of_interest",
+              "location": [
+                7,
+                16
+              ]
+            }
+          ]
+        },
+        {
+          "text": "what is java",
+          "mentions": [
+            {
+              "entity": "object_of_interest",
+              "location": [
+                8,
+                12
+              ]
+            }
+          ]
+        },
+        {
+          "text": "give me the definition of literature",
+          "mentions": [
+            {
+              "entity": "object_of_interest",
+              "location": [
+                26,
+                36
+              ]
+            }
+          ]
+        },
+        {
+          "text": "what is love",
+          "mentions": [
+            {
+              "entity": "object_of_interest",
+              "location": [
+                8,
+                12
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Tell me something about Star Wars",
+          "mentions": [
+            {
+              "entity": "object_of_interest",
+              "location": [
+                24,
+                33
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Please define gravity",
+          "mentions": [
+            {
+              "entity": "object_of_interest",
+              "location": [
+                14,
+                21
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Can you explain something about the International Space Station",
+          "mentions": [
+            {
+              "entity": "object_of_interest",
+              "location": [
+                36,
+                63
+              ]
+            }
+          ]
+        },
+        {
+          "text": "tell me about India",
+          "mentions": [
+            {
+              "entity": "object_of_interest",
+              "location": [
+                14,
+                19
+              ]
+            }
+          ]
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "Hey twin"
+        },
+        {
+          "text": "Hey you"
+        },
+        {
+          "text": "Hi advisor"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "How are you today?"
+        },
+        {
+          "text": "How have you been?"
+        },
+        {
+          "text": "You there"
+        },
+        {
+          "text": "Who is this?"
+        },
+        {
+          "text": "What's up?"
+        },
+        {
+          "text": "What's new?"
+        },
+        {
+          "text": "Ok take me back"
+        },
+        {
+          "text": "Looking good eve"
+        },
+        {
+          "text": "How r u?"
+        },
+        {
+          "text": "Good to see you"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Hey there"
+        },
+        {
+          "text": "Good day"
+        },
+        {
+          "text": "Hey there all"
+        },
+        {
+          "text": "Hey how are you doing"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Have you been well?"
+        },
+        {
+          "text": "Hello Agent"
+        },
+        {
+          "text": "Hello I am looking for some help here"
+        },
+        {
+          "text": "How is it going?"
+        }
+      ],
+      "description": "Greet the bot."
+    }
+  ],
+  "entities": [
+    {
+      "entity": "sys-time",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "object_of_interest",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Star Wars",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Saudi Arabia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "IBM",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "mouse",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "India",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "International Space Station",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "World Wide Web",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "literature",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "gravity",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "love",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "java",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "developer",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "barak obama",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "ahmed deedat",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-percentage",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-currency",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-number",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-date",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Countries",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Tuvalu",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Turks and Caicos Islands",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Turkmenistan",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Turkey",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Tunisia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Trinidad and Tobago",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Tonga",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Tokelau",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Togo",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Timor-Leste",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Thailand",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Tanzania, United Republic of",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Tajikistan",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Taiwan, Province of China",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Syrian Arab Republic",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Switzerland",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Sweden",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Swaziland",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Svalbard and Jan Mayen",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Suriname",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Sudan",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Sri Lanka",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Spain",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "South Sudan",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "South Georgia and the South Sandwich Islands",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "South Africa",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Somalia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Solomon Islands",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Slovenia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Slovakia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Sint Maarten (Dutch part)",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Singapore",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Sierra Leone",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Seychelles",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Serbia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Senegal",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Saudi Arabia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Sao Tome and Principe",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "San Marino",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Samoa",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Saint Vincent and the Grenadines",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Saint Pierre and Miquelon",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Saint Martin (French part)",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Saint Lucia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Saint Kitts and Nevis",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Saint Helena, Ascension and Tristan da Cunha",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Saint Barthélemy",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Rwanda",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Russian Federation",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Romania",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Réunion",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Qatar",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Puerto Rico",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Portugal",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Poland",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Pitcairn",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Philippines",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Peru",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Paraguay",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Papua New Guinea",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Panama",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Palestine, State of",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Palau",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Pakistan",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Oman",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Norway",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Northern Mariana Islands",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Norfolk Island",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Niue",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Nigeria",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Niger",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Nicaragua",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "New Zealand",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "New Caledonia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Netherlands",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Nepal",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Nauru",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Namibia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Myanmar",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Mozambique",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Morocco",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Montserrat",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Montenegro",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Mongolia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Monaco",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Moldova, Republic of",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Micronesia, Federated States of",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Mexico",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Mayotte",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Mauritius",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Mauritania",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Martinique",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Marshall Islands",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Malta",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Mali",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Maldives",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Malaysia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Malawi",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Madagascar",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Macedonia, the Former Yugoslav Republic of",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Macao",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Luxembourg",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Lithuania",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Liechtenstein",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Libya",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Liberia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Lesotho",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Lebanon",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Latvia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Lao People's Democratic Republic",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Kyrgyzstan",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Kuwait",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Korea, Republic of",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Korea, Democratic People's Republic of",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Kiribati",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Kenya",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Kazakhstan",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jordan",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jersey",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Japan",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jamaica",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Italy",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Israel",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Isle of Man",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Ireland",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Iraq",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Iran, Islamic Republic of",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Indonesia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "India",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Iceland",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Hungary",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Hong Kong",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Honduras",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Holy See (Vatican City State)",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Heard Island and McDonald Islands",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Haiti",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Guyana",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Guinea-Bissau",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Guinea",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Guernsey",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Guatemala",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Guam",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Guadeloupe",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Grenada",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Greenland",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Greece",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Gibraltar",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Ghana",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Germany",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Georgia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Gambia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Gabon",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "French Southern Territories",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "French Polynesia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "French Guiana",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "France",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Finland",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Fiji",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Faroe Islands",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Falkland Islands (Malvinas)",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Ethiopia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Estonia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Eritrea",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Equatorial Guinea",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "El Salvador",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Egypt",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Ecuador",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Dominican Republic",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Dominica",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Djibouti",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Denmark",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Czech Republic",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Cyprus",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Curaçao",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Cuba",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Croatia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Côte d'Ivoire",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Costa Rica",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Cook Islands",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Congo, the Democratic Republic of the",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Congo",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Comoros",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Colombia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Cocos (Keeling) Islands",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Christmas Island",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "China",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Chile",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Chad",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Central African Republic",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Cayman Islands",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Cape Verde",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Canada",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Cameroon",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Cambodia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Burundi",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Burkina Faso",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Bulgaria",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Brunei Darussalam",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "British Indian Ocean Territory",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Brazil",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Bouvet Island",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Botswana",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Bosnia and Herzegovina",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Bonaire, Sint Eustatius and Saba",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Bolivia, Plurinational State of",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Bhutan",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Bermuda",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Benin",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Belize",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Belgium",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Belarus",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Barbados",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Bangladesh",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Bahrain",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Bahamas",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Azerbaijan",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Austria",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Australia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Aruba",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Armenia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Argentina",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Antigua and Barbuda",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Antarctica",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Anguilla",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Angola",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Andorra",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "American Samoa",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Algeria",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Albania",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Åland Islands",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Afghanistan",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Zimbabwe",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Zambia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Yemen",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Western Sahara",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Wallis and Futuna",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Virgin Islands, U.S.",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Virgin Islands, British",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Viet Nam",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Venezuela, Bolivarian Republic of",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Vanuatu",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Uzbekistan",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Uruguay",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "United States Minor Outlying Islands",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "United States",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "United Kingdom",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "United Arab Emirates",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Ukraine",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Uganda",
+          "synonyms": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "webhooks": [
+    {
+      "url": "https://eu-gb.functions.appdomain.cloud/api/v1/web/a.n.a.s.30%40hotmail.com_dev/default/Wikipedia-connection.json",
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I am defining @object_of_interest : <? $webhook_result_1.extract.extract ?>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1595351263930",
+      "conditions": "$webhook_result_1.extract.type==”standard”",
+      "dialog_node": "response_6_1595351850264",
+      "previous_sibling": "response_3_1595351334552"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "I am not quite sure about the term @object_of_interest . Please try another topic."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_9_1595351263930",
+      "conditions": "anything_else",
+      "dialog_node": "response_1_1595351336973",
+      "previous_sibling": "response_6_1595351850264"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I am defining @object_of_interest : <? \n$webhook_result_1.extract.extract ?>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "$webhook_result_1.extract.title",
+            "source": "$webhook_result_1.extract.thumbnail.source",
+            "description": "$webhook_result_1.extract.description",
+            "response_type": "image"
+          }
+        ]
+      },
+      "parent": "node_9_1595351263930",
+      "conditions": "$webhook_result_1.extract.thumbnail",
+      "dialog_node": "response_3_1595351334552"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              },
+              {
+                "text": "Come on say something reasonable"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_3_1595341925279",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Moves",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sure boss"
+              },
+              {
+                "text": "Moving..."
+              },
+              {
+                "text": "OK"
+              },
+              {
+                "text": "OK, Get out of the way"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#RobotMoves",
+      "dialog_node": "node_3_1595341925279",
+      "previous_sibling": "node_6_1594503744429"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I'm Jodi your assistant"
+              },
+              {
+                "text": "Jodi your assistant"
+              },
+              {
+                "text": "here I am Jodi"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#AskAboutAssistant",
+      "dialog_node": "node_6_1594503744429",
+      "previous_sibling": "node_9_1595351263930"
+    },
+    {
+      "type": "standard",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "Countries": "@Countries",
+            "object_of_interest": "@object_of_interest"
+          },
+          "result_variable": "webhook_result_1"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#tell_me_about && @object_of_interest || @Countries",
+      "dialog_node": "node_9_1595351263930",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello. How can I help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "Smart Methods chatbot",
+  "language": "en",
+  "description": ""
+}
